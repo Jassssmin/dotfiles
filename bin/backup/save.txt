@@ -1,0 +1,2 @@
+/home/jas/Scripts
+/home/jas/.config/awesome

@@ -1,0 +1,8 @@
+This directory focuses on using xrandr to set up monitor configs.
+
+Here is a description of each script:
+ - mirror-monitor: mirrors the screen to monitor
+ - background-check-disconnection: checks if HDMI is connected. If not, resets to normal
+
+TO-DO:
+ - Create a script that is a TUI to select options for config
